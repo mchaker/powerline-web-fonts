@@ -105,7 +105,7 @@
 @font-face {
     font-family: 'MesloLGS NF';
     src: local("MesloLGS NF Italic"),
-        url('fonts/MesloLGS_NF/MesloLGS-NF-Italic.ttf') format('truetype');
+        url('fonts/MesloLGS_NF/mesloLGS_NF_italic.ttf') format('truetype');
     font-weight: normal;
     font-style: italic;
 }
@@ -113,7 +113,7 @@
 @font-face {
     font-family: 'MesloLGS NF';
     src: local("MesloLGS NF Bold Italic"),
-        url('fonts/MesloLGS_NF/MesloLGS-NF-Bold-Italic.ttf') format('truetype');
+        url('fonts/MesloLGS_NF/mesloLGS_NF_bold_italic.ttf') format('truetype');
     font-weight: bold;
     font-style: italic;
 }
@@ -121,7 +121,7 @@
 @font-face {
     font-family: 'MesloLGS NF';
     src: local("MesloLGS NF Bold"),
-        url('fonts/MesloLGS_NF/MesloLGS-NF-Bold.ttf') format('truetype');
+        url('fonts/MesloLGS_NF/mesloLGS_NF_bold.ttf') format('truetype');
     font-weight: bold;
     font-style: normal;
 }
@@ -129,7 +129,7 @@
 @font-face {
     font-family: 'MesloLGS NF';
     src: local("MesloLGS NF Regular"),
-        url('fonts/MesloLGS_NF/MesloLGS-NF-Regular.ttf') format('truetype');
+        url('fonts/MesloLGS_NF/mesloLGS_NF_regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
